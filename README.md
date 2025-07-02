@@ -18,3 +18,7 @@ The main() function orchestrates the entire process. It sets up the input and ou
 Overall, this program effectively demonstrates how repeated patterns in a text can be compressed using a straightforward algorithm. The implementation highlights important concepts such as file handling, character-level processing, conditional logic, and memory-efficient text manipulation. The use of Run-Length Encoding ensures that sequences of repeating characters are represented more compactly, reducing the file size in cases of redundancy. This task serves as a solid introduction to data compression and the practical use of algorithms for optimizing storage and transmission.
 #OUTPUTN
 
+![Image](https://github.com/user-attachments/assets/b6971be9-dfc2-41f1-baa5-5a8c9a2498f2)
+
+![Image](https://github.com/user-attachments/assets/4475d065-60be-4e92-b7d6-762d13820dae)![image](https://github.com/user-attachments/assets/549b9846-bcc7-453b-90f9-a5253c60ba89)
+
